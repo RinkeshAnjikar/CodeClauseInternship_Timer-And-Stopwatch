@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TimerandStopwatch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TimerandStopwatch/dist/TimerandStopwatch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
